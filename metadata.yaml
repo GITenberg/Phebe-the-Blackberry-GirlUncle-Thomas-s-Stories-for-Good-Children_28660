@@ -1,0 +1,38 @@
+_repo: Phebe-the-Blackberry-GirlUncle-Thomas-s-Stories-for-Good-Children_28660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2009-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children and animals -- Juvenile fiction'
+- !lcsh 'Children -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+tableOfContents: The blackberry girl -- Good children -- Poor crazy Robert -- The
+  pet lamb -- Father William and the young man -- The little girl and her pets --
+  The flowers -- The child and the flowers -- One, two, buckle my shoe -- Washing
+  and dressing -- The industrious boy -- We are seven / by Wm. Wordsworth -- The idle
+  boy -- Casabianca -- Twinkle, twinkle, little star.
+title: 'Phebe, the Blackberry Girl
+
+  Uncle Thomas''s Stories for Good Children'
+url: http://www.gutenberg.org/ebooks/28660
